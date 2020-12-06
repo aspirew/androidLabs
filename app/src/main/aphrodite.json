@@ -1,0 +1,32 @@
+[
+{
+    "name" : "Aphrodite",
+    "desc" : "...Aphrodite wields her beauty and her charm with much the same lethality as I could wield the spear. I have seen her handiwork first-hand, and it is often not as pretty as she is. I sometimes think that she, among all the Olympians, may be the mightiest of all. A crashing wave or thundering tempest are preferable to a broken heart. Yet, while love's the force that brought me and countless others low in life, it also brought me and countless others strength, beyond the bounds of normal men. Still I fear that Aphrodite's power is the most terrible in all the world.",
+    "boons" : [
+        {
+            "name" : "Hearbreak Strike",
+            "desc" : "Your Attack deals more damage and inflicts Weak.",
+            "value" : "Attack Damage: +50%",
+            "img_url" : "https://static.wikia.nocookie.net/hades_gamepedia_en/images/e/e3/Heartbreak_Strike.png"
+        },
+        {
+            "name" : "Hearbreak Flourish",
+            "desc" : "Your Special deals more damage and inflicts Weak.",
+            "value" : "Special Damage: +80%",
+            "img_url" : "https://static.wikia.nocookie.net/hades_gamepedia_en/images/e/e9/Heartbreak_Flourish.png"
+        },
+        {
+            "name" : "Passion Flare",
+            "desc" : "Your Cast is a wide, short-range blast that inflicts Weak.",
+            "value" : "Cast Damage: 90",
+            "img_url" : "https://static.wikia.nocookie.net/hades_gamepedia_en/images/e/e3/Pasion_Flare.png"
+        },
+        {
+            "name" : "Passion Dash",
+            "desc" : "Your Dash inflicts damage where you end up, inflicting Weak.",
+            "value" : "Dash Damage: 20",
+            "img_url" : "https://static.wikia.nocookie.net/hades_gamepedia_en/images/e/e3/Passion_Dash.png"
+        }
+    ]
+}
+]

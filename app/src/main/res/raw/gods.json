@@ -1,0 +1,368 @@
+[
+{
+    "name" : "Aphrodite",
+    "mainImage" : "aphrodite",
+    "gallery" : ["aphrodite", "aphrodite_reward", "aphrodite_attack"],
+    "color" : "#D76DC4",
+    "categories" : ["supportive", "defensive"],
+    "desc" : "...Aphrodite wields her beauty and her charm with much the same lethality as I could wield the spear. I have seen her handiwork first-hand, and it is often not as pretty as she is. I sometimes think that she, among all the Olympians, may be the mightiest of all. A crashing wave or thundering tempest are preferable to a broken heart. Yet, while love's the force that brought me and countless others low in life, it also brought me and countless others strength, beyond the bounds of normal men. Still I fear that Aphrodite's power is the most terrible in all the world.",
+    "boons" : [
+        {
+            "name" : "Heartbreak Strike",
+            "desc" : "Your Attack deals more damage and inflicts Weak.",
+            "value" : "Attack Damage: +50%",
+            "image" : "heartbreak_strike"
+        },
+        {
+            "name" : "Heartbreak Flourish",
+            "desc" : "Your Special deals more damage and inflicts Weak.",
+            "value" : "Special Damage: +80%",
+            "image" : "heartbreak_flourish"
+        },
+        {
+            "name" : "Crush Shot",
+            "desc" : "Your Cast is a wide, short-range blast that inflicts Weak.",
+            "value" : "Cast Damage: 90",
+            "image" : "crush_shot"
+        },
+        {
+            "name" : "Passion Dash",
+            "desc" : "Your Dash inflicts damage where you end up, inflicting Weak.",
+            "value" : "Dash Damage: 20",
+            "image" : "passion_dash"
+        },
+        {
+            "name" : "Aphrodite's Aid",
+            "desc" : "Your Call fires a seeking projectile that inflicts Charm.",
+            "value" : "Charm Duration: 5 Sec.",
+            "image" : "aphrodites_aid"
+        }
+    ]
+},
+{
+    "name" : "Ares",
+    "mainImage" : "ares",
+    "gallery" : ["ares", "ares_reward", "ares_blade" ],
+    "color" : "#E4677A",
+    "categories" : ["offensive", "supportive"],
+    "desc" : "...Although my heart has long since stopped, it yet holds love in it for all the gods, save one, the one who made and ruined me as well. I have no kind words to impart to him, except, perhaps, in form of this concession: War, much like the heavens and the sea, can be considered as a force of nature. It keeps men down; they will never grow too plentiful, this way, or near as mighty as the gods. And yet, men worship Ares willingly; they are so much like him. I should know. I was a warrior myself. Only in death do I begin to fully grasp my wrongs.",
+    "boons" : [
+        {
+            "name" : "Curse of Agony",
+            "desc" : "Your Attack inflicts Doom.",
+            "value" : "Curse Damage: 50",
+            "image" : "curse_of_agony"
+        },
+        {
+            "name" : "Curse of Pain",
+            "desc" : "Your Special inflicts Doom.",
+            "value" : "Curse Damage: 60",
+            "image" : "curse_of_pain"
+        },
+        {
+            "name" : "Slicing Shot",
+            "desc" : "Your Cast sends a Blade Rift hurling ahead.",
+            "value" : "Rift Damage per Hit: 20",
+            "image" : "slicing_shot"
+        },
+        {
+            "name" : "Blade Dash",
+            "desc" : "Your Dash creates a Blade Rift where you started.",
+            "value" : "Rift Damage per Hit: 10",
+            "image" : "blade_dash"
+        },
+        {
+            "name" : "Ares' Aid",
+            "desc" : "Your Call turns you into an Impervious Blade Rift for 1.2 Sec.",
+            "value" : "Rift Damage per Hit: 30",
+            "image" : "ares_aid"
+        }
+    ]
+},
+{
+    "name" : "Artemis",
+    "mainImage" : "artemis",
+    "gallery" : ["artemis", "artemis_reward", "artemis_critical_strike"],
+    "color" : "#7DC33A",
+    "categories" : ["offensive", "supportive"],
+    "desc" : "...The goddess of the hunt has always held my highest admiration. Unlike so many of her brethren on Olympus, she seems unconcerned with being praised at every turn by mortals, and instead she dutifully holds her station as a master of the natural world. Even Lord Hades may hold some respect for her, I think. Certainly her power is responsible for no small quantity of shades in this domain. Lord Hades and the Lady Artemis have certain traits in common, I suppose; each solitary and committed to their work. If only my Lord Hades understood that someone such as Artemis could be someone to confide in, rather than resent along with all the others on Olympus.",
+    "boons" : [
+        {
+            "name" : "Deadly Strike",
+            "desc" : "Your Attack is stronger, with +15% chance to deal Critical damage.",
+            "value" : "Attack Damage: +20%",
+            "image" : "deadly_strike"
+        },
+        {
+            "name" : "Deadly Flourish",
+            "desc" : "Your Special is stronger, with +20% chance to deal Critical Damage.",
+            "value" : "Special Damage: +40%",
+            "image" : "deadly_flourish"
+        },
+        {
+            "name" : "True Shot",
+            "desc" : "Your Cast seeks foes, with a 10% chance to deal Critical damage.",
+            "value" : "Cast Damage: 70",
+            "image" : "true_shot"
+        },
+        {
+            "name" : "Hunter Dash",
+            "desc" : "Your Dash-Strike deals more damage.",
+            "value" : "Dash Attack Damage: +50%",
+            "image" : "hunter_dash"
+        },
+        {
+            "name" : "Artemis' Aid",
+            "desc" : "Your Call fires a seeking arrow with +35% Critical chance.",
+            "value" : "Arrow Damage: 100",
+            "image" : "artemis_aid"
+        }
+    ]
+},
+{
+    "name" : "Athena",
+    "mainImage" : "athena",
+    "gallery" : ["athena", "athena_reward", "athena_deflect"],
+    "color" : "#BEB45E",
+    "categories" : ["defensive"],
+    "desc" : "...Of some things I am certain, and one of them is this: That there were many times, during my mortal life, when my spear found its mark thanks to Pallas Athena. She favors those of dispositions such as mine, and I would like to think her efforts keep the violent lusting of Ares, her half-brother, well in check. If anybody on Olympus might have the capacity to mend the rift between my Master and themselves, it must be her; though, even in all her wisdom, I remain unsure if she can sway my Master's obstinance.",
+    "boons" : [
+        {
+            "name" : "Divine Strike",
+            "desc" : "Your Attack is stronger, and can Deflect.",
+            "value" : "Attack Damage: +40%",
+            "image" : "divine_strike"
+        },
+        {
+            "name" : "Divine Flourish",
+            "desc" : "Your Special is stronger, and can Deflect.",
+            "value" : "Special Damage: +60%",
+            "image" : "divine_flourish"
+        },
+        {
+            "name" : "Phalanx Shot",
+            "desc" : "Your Cast damages foes in a small area, and can Deflect.",
+            "value" : "Cast Damage: 85",
+            "image" : "phalanx_shot"
+        },
+        {
+            "name" : "Divine Dash",
+            "desc" : "Your Dash deals damage and can Deflect.",
+            "value" : "Dash Damage: 10",
+            "image" : "divine_dash"
+        },
+        {
+            "name" : "Athena's Aid",
+            "desc" : "Your Call briefly makes you Invulnerable and Deflect all attacks..",
+            "value" : "Effect Duration: 1.5 Sec.",
+            "image" : "athenas_aid"
+        }
+    ]
+},
+{
+    "name" : "Demeter",
+    "mainImage" : "demeter",
+    "gallery" : ["demeter", "demeter_reward", "demeter_chill"],
+    "color" : "#A0D3FF",
+    "categories" : ["offensive", "supportive"],
+    "desc" : "...Over time, mortals have come to fear great Demeter, eldest of Olympians, goddess of seasons, bringer of plenty, and taker-away of it. I cannot imagine she is moved by any of their offerings. Much is said of her in hushed tones, not unlike the ones reserved for the master here. Once, she administered her gifts of sustenance with generosity, until some stroke of Fate befell. She changed, and never been as giving since. The mortals who once prayed to her for plenty now beg mostly for mercy. My understanding is, despite popular belief, Demeter is no direct relation to Lord Hades or his brothers, being born of more ancient Titan stock; she certainly has taken pains to distance herself from Zeus in particular, often leaving Olympus for long stretches, in search of something. Or someone. Not that I would know a thing of it; only the mutterings of shades descended to this realm from freezing cold or famine. Surely, they pray, the seasons are due for a turn for the better?",
+    "boons" : [
+        {
+            "name" : "Frost Strike",
+            "desc" : "Your Attack is stronger and inflicts Chill.",
+            "value" : "Attack Damage: +40%",
+            "image" : "frost_strike"
+        },
+        {
+            "name" : "Frost Flourish",
+            "desc" : "Your Special is stronger and inflicts Chill.",
+            "value" : "Special Damage: +60%",
+            "image" : "frost_flourish"
+        },
+        {
+            "name" : "Crystal Beam",
+            "desc" : "Your Cast drops a crystal that fires a beam straight ahead for 5 sec.",
+            "value" : "Cast Damage: 8 (every 0.2 sec)",
+            "image" : "crystal_beam"
+        },
+        {
+            "name" : "Mistral Dash",
+            "desc" : "Your Dash shoots a gust ahead that inflicts Chill.",
+            "value" : "Gust Damage: 15",
+            "image" : "mistral_dash"
+        },
+        {
+            "name" : "Demeter's Aid",
+            "desc" : "Your Call creates a winter vortex for 5 Sec., deals damage every 0.25 Sec inflicting Chill.",
+            "value" : "Damage: 10",
+            "image" : "demeters_aid"
+        }
+    ]
+},
+{
+    "name" : "Dionysus",
+    "mainImage" : "dionysus",
+    "gallery" : ["dionysus", "dionysus_reward", "dionysus_hangover"],
+    "color" : "#8E81E3",
+    "categories" : ["offensive", "supportive"],
+    "desc" : "...Perhaps I ought to feel a kinship with this easygoing son of Zeus, for it is said that he has some mortal blood in him, not just divinity. This may explain why he, among Olympians, is so well-loved by mortal-kind; because he loves them back, bringing to them more joy than suffering, for the most part. Being rather unlike the other gods in this regard, he nonetheless maintains a careful distance from the Underworld, generally severing his ties with all his mortal followers upon the moment of their deaths. Why confront the woes of the dead when you can live in eternal feast?",
+    "boons" : [
+        {
+            "name" : "Drunken Strike",
+            "desc" : "Your Attack inflicts Hangover.",
+            "value" : "Hangover Damage: 4",
+            "image" : "drunken_strike"
+        },
+        {
+            "name" : "Drunken Flourish",
+            "desc" : "Your Special inflicts Hangover.",
+            "value" : "Hangover Damage: 5",
+            "image" : "drunken_flourish"
+        },
+        {
+            "name" : "Trippy Shot",
+            "desc" : "Your Cast lobs a projectile that bursts into Festive Fog.",
+            "value" : "Blast Damage: 100",
+            "image" : "trippy_shot"
+        },
+        {
+            "name" : "Drunken Dash",
+            "desc" : "Your Dash inflicts foes near you with Hangover.",
+            "value" : "Hangover Damage: 2",
+            "image" : "drunken_dash"
+        },
+        {
+            "name" : "Dionysus' Aid",
+            "desc" : "Your Call inflicts Hangover to foes all around you for 1.5 Sec.",
+            "value" : "Hangover Damage: 15",
+            "image" : "dionysus_aid"
+        }
+    ]
+},
+{
+    "name" : "Hermes",
+    "mainImage" : "hermes",
+    "gallery" : ["hermes", "hermes_reward", "sturdy_dash"],
+    "color" : "#F0A05F",
+    "categories" : ["offensive", "supportive"],
+    "desc" : "...One of the free-spirited sons of Zeus, he is patron to travelers, traders, even tricksters. Youthful in spirit and appearance, he could be mistaken for a common lad, if not for his extraordinary swiftness. None whom I know approach his agility or athleticism. He puts this peerless skill to a specific use, serving as the messenger of Olympus. Vast distances are nothing to him. Yet, there is something more to Hermes: He is the only god upon Olympus who dutifully serves the Underworld, in addition to his Olympian affairs. The Underworld is an orderly place, but the souls of the dead must first be brought to its brink. He has much to do with this. He seems to have ingratiated himself to the boatman, Charon -- notoriously unapproachable even by the Underworld's own. Thus, it is my belief that Hermes, besides his many talents, is the god of more than he appears.",
+    "boons" : [
+        {
+            "name" : "Swift Strike",
+            "desc" : "Your Attack is +X% faster.",
+            "value" : "Attack Speed: +10%",
+            "image" : "swift_strike"
+        },
+        {
+            "name" : "Hyper Sprint",
+            "desc" : "For X seconds after you Dash, become Sturdy and run +100% faster.",
+            "value" : "Duration: 0.5 sec.",
+            "image" : "hyper_sprint"
+        },
+        {
+            "name" : "Quick Favor",
+            "desc" : "Your Call charges up automatically.",
+            "value" : "Auto Gauge Gain: +1% (every 2 sec.)",
+            "image" : "quick_favor"
+        },
+        {
+            "name" : "Greater Haste",
+            "desc" : "You move X% faster.",
+            "value" : "Movement Speed: +20%",
+            "image" : "greater_haste"
+        },
+        {
+            "name" : "Greater Evasion",
+            "desc" : "You have +X% chance to Dodge.",
+            "value" : "Dodge Chance: +10%",
+            "image" : "greater_evasion"
+        },
+        {
+            "name" : "Greatest Reflex",
+            "desc" : "You can Dash +X more time(s) in a row.",
+            "value" : "Extra Dashes: +1",
+            "image" : "greatest_reflex"
+        }
+    ]
+},
+{
+    "name" : "Poseidon",
+    "mainImage" : "poseidon",
+    "gallery" : ["poseidon", "poseidon_reward", "poseidon_slam"],
+    "color" : "#2C9BD4",
+    "categories" : ["offensive", "supportive"],
+    "desc" : "...The Master of the Seas, the Earthshaker, Brother to Lord Hades and Lord Zeus... the Lord Poseidon. I am ever grateful that, while I was living, he was merciful to me. Down here, however, I must say I rarely feel his influence. All of us... we are beneath him, now. How many of my brethren did he drown during my mortal days? He comes across as affable, yet I've not forgiven him. Lord Hades seems to have no love for him, either, equating him to Zeus, and shunning both alike. It's all a business best avoided by my estimation.",
+    "boons" : [
+        {
+            "name" : "Tempest Strike",
+            "desc" : "Your Attack deals more damage and knocks foes away.",
+            "value" : "Attack Damage: +30%",
+            "image" : "tempest_strike"
+        },
+        {
+            "name" : "Tempest Flourish",
+            "desc" : "Your Special deals more damage and knocks foes away.",
+            "value" : "Special Damage: +70%",
+            "image" : "tempest_flourish"
+        },
+        {
+            "name" : "Flood Shot",
+            "desc" : "Your Cast damages foes in an area and knocks them away.",
+            "value" : "Cast Damage: 60",
+            "image" : "flood_shot"
+        },
+        {
+            "name" : "Tidal Dash",
+            "desc" : "Your Dash damages foes in an area and knocks them away.",
+            "value" : "Dash Damage: 35",
+            "image" : "tidal_dash"
+        },
+        {
+            "name" : "Dionysus' Aid",
+            "desc" : "Your Call makes you surge into foes while Impervious for 1.2 Sec.",
+            "value" : "Impact Damage: 250",
+            "image" : "poseidons_aid"
+        }
+    ]
+},
+{
+    "name" : "Zeus",
+    "mainImage" : "zeus",
+    "gallery" : ["zeus", "zeus_reward", "zeus_thunder"],
+    "color" : "#FBEA31",
+    "categories" : ["offensive"],
+    "desc" : "...The Master of the Heavens, god among gods; so much of my mortal life was impacted by him. And now, even in death, I serve his brother. I do not think that I have much to say for the Lord Zeus which is not widely known, already. Once, he overthrew the Titans, his own ancestors, to wrest control of all the heavens and the earth. He yet presides as ruler over all. Lord Hades bears no love for him, for reasons I can scarce begin to contemplate; it is as though Lord Hades chooses willingly not to consort with the Olympians",
+    "boons" : [
+        {
+            "name" : "Lightning Strike",
+            "desc" : "Your Attack emits chain-lightning when you damage a foe.",
+            "value" : "Lightning Damage: 10",
+            "image" : "lightning_strike"
+        },
+        {
+            "name" : "Thunder Flourish",
+            "desc" : "Your Special causes a lightning bolt to strike nearby foes.",
+            "value" : "Special Damage: +70%",
+            "image" : "thunder_flourish"
+        },
+        {
+            "name" : "Electric Shot",
+            "desc" : "Your Cast is a burst of chain-lightning that bounces between foes.",
+            "value" : "Cast Damage: 60",
+            "image" : "electric_shot"
+        },
+        {
+            "name" : "Thunder Dash",
+            "desc" : "Your Dash causes a lightning bolt to strike nearby foes.",
+            "value" : "Lightning Damage: 10",
+            "image" : "thunder_dash"
+        },
+        {
+            "name" : "Zeus' Aid",
+            "desc" : "Your Call makes lightning strike nearby foes repeatedly for 1.5 Sec.",
+            "value" : "Lightning Damage: 50",
+            "image" : "zeus_aid"
+        }
+    ]
+}
+]

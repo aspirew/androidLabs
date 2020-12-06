@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/all"
+        android:title="@string/all" />
+    <item
+        android:id="@+id/favourites"
+        android:title="@string/favourites" />
+    <item
+        android:id="@+id/offensive"
+        android:title="@string/offensive" />
+    <item
+        android:id="@+id/defensive"
+        android:title="@string/defensive" />
+    <item
+        android:id="@+id/support"
+        android:title="@string/supportive" />
+</menu>
